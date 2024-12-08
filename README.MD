@@ -37,5 +37,5 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Prompts
 
-- 🤖 1. Os prompts do nome e do roteiro estão em `src/prompts/chagpt`
+- 🤖 1. Os prompts do nome e do roteiro estão em `src/prompts/chatgpt`
 - 🤖 2. Os prompts das artes estão em `src/prompts/copilot`
