@@ -37,5 +37,5 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Prompts
 
-- 🤖 1. Os prompts do nome e do roteiro estão em `chagpt`
-- 🤖 2. Os prompts das artes estão em `midjourney`
+- 🤖 1. Os prompts do nome e do roteiro estão em `sr/prompt/chagpt`
+- 🤖 2. Os prompts das artes estão em `sr/prompt/copilot`
